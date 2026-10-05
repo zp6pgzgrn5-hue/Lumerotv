@@ -1,0 +1,26 @@
+{
+  "type": "pages",
+  "headline": "Lumero TV",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,4,4",
+    "color": "msx-white"
+  },
+  "items": [
+    {
+      "type": "default",
+      "label": "LIVE TV",
+      "title": "Telewizja na żywo"
+    },
+    {
+      "type": "default",
+      "label": "VOD",
+      "title": "Filmy"
+    },
+    {
+      "type": "default",
+      "label": "SERIES",
+      "title": "Seriale"
+    }
+  ]
+}
